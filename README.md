@@ -15,5 +15,5 @@ Oi meu nome é Rafael e atualmente estou cursando o primeiro termo ADS na fatec
 </div>
 
 <br>
-![Snake animation](https://github.com/RafaMirandaCAP/.github/workflows/snake.yml/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RafaMirandaCAP/RafaMirandaCAP/blob/output/github-contribution-grid-snake.svg)
 
