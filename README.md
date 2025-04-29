@@ -15,5 +15,5 @@ Oi meu nome é Rafael e atualmente estou cursando o primeiro termo ADS na fatec
 </div>
 
 <br>
-
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
 
