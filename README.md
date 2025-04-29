@@ -9,8 +9,8 @@ Oi meu nome é Rafael e atualmente estou cursando o primeiro termo ADS na fatec
 
 <div align="center">
   <a href="https://github.com/RafaMirandaCAP">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMiranda&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaMirandaCAP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMirandaCAP&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
